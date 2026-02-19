@@ -143,3 +143,5 @@ http://localhost:8000/
 <code>
 
 5) See stored URLs in Redis
+check :  accessing_values_rediscli_url_shortner_project.png
+
