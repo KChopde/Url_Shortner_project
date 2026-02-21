@@ -14,7 +14,7 @@ A simple URL shortener:
 
 ---
 
-## Project Structure (suggested)
+## Project Structure 
 project-root/
 backend/
 app.py
@@ -92,14 +92,6 @@ export BASE_URL="http://localhost:8000"
 2.4 Start FastAPI
 uvicorn app:app --reload --port 8000
 
-
-Open Swagger docs:
-
-http://localhost:8000/docs
-
-(Optional) If you added /health endpoint:
-
-http://localhost:8000/health
 
 3) Run Frontend (Next.js UI)
 cd ../frontend
